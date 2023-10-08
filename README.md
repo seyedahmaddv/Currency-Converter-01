@@ -22,7 +22,7 @@ You can see a live demo of this currency converter at [Currency Converter Demo](
 
 - **Seyed Ahmad**
   - Twitter: [SeyedAhmadDv](https://twitter.com/SeyedAhmadDv)
-  - LinkedIn: [Seyed Ahmad Davoodi](https://linkedin.com/in/seyedahmaddv)
+  - LinkedIn: [Seyed Ahmad](https://linkedin.com/in/seyedahmaddv)
   - Personal Website: [Doosteweb.ir](https://doosteweb.ir)
 
 Feel free to connect with me on Twitter or LinkedIn!
